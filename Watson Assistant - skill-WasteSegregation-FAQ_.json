@@ -1,0 +1,1119 @@
+{
+  "intents": [
+    {
+      "intent": "WasteSegregation_Types",
+      "examples": [
+        {
+          "text": "What are the different types of waste?"
+        },
+        {
+          "text": "How do I separate my waste?"
+        },
+        {
+          "text": "How can I get started?"
+        },
+        {
+          "text": "Know Your Waste"
+        },
+        {
+          "text": "From where I can start?"
+        },
+        {
+          "text": "How do I classify my waste?"
+        },
+        {
+          "text": "How do I separate the waste?"
+        }
+      ],
+      "description": "Different types of waste"
+    },
+    {
+      "intent": "WasteSegregation_NotFollowed",
+      "examples": [
+        {
+          "text": "What if we don't segregate the waste?"
+        }
+      ],
+      "description": "What if we don't segregate the waste?"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        }
+      ],
+      "description": "Greet the bot"
+    },
+    {
+      "intent": "WasteSegregation_DryWaste",
+      "examples": [
+        {
+          "text": "How do I store pickle, sauce bottles?"
+        },
+        {
+          "text": "If I order take away from a local shop - do I have to rinse the plastics bags/containers?"
+        },
+        {
+          "text": "Should I rinse my juice containers/ tetra packs?"
+        },
+        {
+          "text": "Will my biscuit/bread packet attract ants? How do I store them?"
+        },
+        {
+          "text": "What do I do with old bed linen/ mattress/ pillows etc?"
+        },
+        {
+          "text": "What do I do with my old furniture/ broken glass table?"
+        },
+        {
+          "text": "What do I do with old clothes/ shoes/ handbags/ belts/ toys?"
+        },
+        {
+          "text": "What do I do with my old taps/ broken sanitary ware?"
+        },
+        {
+          "text": "Dry Waste"
+        },
+        {
+          "text": "What is the best method of storing dry waste?"
+        },
+        {
+          "text": "What is Dry waste?"
+        },
+        {
+          "text": "What do I do with milk packets, wet packets, and yoghurt containers?"
+        },
+        {
+          "text": "Will Dry waste smell if I store it for a week?"
+        },
+        {
+          "text": "Will I have cockroach, rats and flies problems?"
+        },
+        {
+          "text": "How do I store pizza and cake boxes?"
+        }
+      ],
+      "description": "Info on dry waste"
+    },
+    {
+      "intent": "WasteSegregation_Sanitary-Reject",
+      "examples": [
+        {
+          "text": "Under what category do I place cosmetics?"
+        },
+        {
+          "text": "Sanitary/ Reject Waste"
+        },
+        {
+          "text": "I have just painted my room. How do I dispose half used paint cans?"
+        },
+        {
+          "text": "Is my razor considered as biomedical waste?"
+        },
+        {
+          "text": "What are hazardous wastes?"
+        },
+        {
+          "text": "What do I do with waxing strips?"
+        },
+        {
+          "text": "How do I dispose expired medicines/ injections/ condoms/ soiled cotton?"
+        },
+        {
+          "text": "How do I dispose human hair/ nails?"
+        },
+        {
+          "text": "What do I do with my old brooms/ floor cleaning cloths/ dry mops/ bathroom cleaning brush?"
+        },
+        {
+          "text": "What is Sanitary/ Reject waste?"
+        },
+        {
+          "text": "If clothes are soiled with body fluids, they become sanitary/reject waste."
+        },
+        {
+          "text": "What about pesticides, cleaning solutions, mosquito repellents?"
+        },
+        {
+          "text": "How do I dispose sanitary pads and diapers?"
+        }
+      ],
+      "description": "Info on Sanitary/ Reject Waste"
+    },
+    {
+      "intent": "WasteSegregation_HowTo",
+      "examples": [
+        {
+          "text": "What are my pre-requisites?"
+        },
+        {
+          "text": "How do I do it?"
+        },
+        {
+          "text": "How do I practice waste management at home?"
+        }
+      ],
+      "description": "Steps to do waste segregation"
+    },
+    {
+      "intent": "WasteSegregation_WetWaste",
+      "examples": [
+        {
+          "text": "How do I dispose dog poop? In case of loose motions, what is the best way to dispose it?"
+        },
+        {
+          "text": "I don’t have time to compost at home, what are my alternatives?"
+        },
+        {
+          "text": "If I don’t use a plastic liner, how do I dispose my food waste in the bin?"
+        },
+        {
+          "text": "Wet Waste"
+        },
+        {
+          "text": "What do I do with garden waste?"
+        },
+        {
+          "text": "What is wet waste?"
+        },
+        {
+          "text": "Can I compost at home?"
+        }
+      ],
+      "description": "Info on wet waste"
+    },
+    {
+      "intent": "WasteSegregation_atHome",
+      "examples": [
+        {
+          "text": "Why we need to do waste aggregation at source?"
+        },
+        {
+          "text": "What is my responsibility towards waste segregation?"
+        },
+        {
+          "text": "Why am I responsible for waste segregation?"
+        },
+        {
+          "text": "Why do I need to segregate waste at home?"
+        },
+        {
+          "text": "Why should I do it?"
+        },
+        {
+          "text": "Why do I need to do it?"
+        },
+        {
+          "text": "Tell me about waste segregation"
+        },
+        {
+          "text": "What do I need to know about waste segregation?"
+        }
+      ],
+      "description": "Waste aggregation at source"
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "That's everything"
+        }
+      ],
+      "description": "End the conversation"
+    },
+    {
+      "intent": "WasteSegregation_Followed",
+      "examples": [
+        {
+          "text": "What happens if we segregate the waste?"
+        }
+      ],
+      "description": "What happens if we segregate the waste?"
+    },
+    {
+      "intent": "WasteSegregation",
+      "examples": [
+        {
+          "text": "What is waste segregation?"
+        },
+        {
+          "text": "Tell me about waste segregation"
+        }
+      ],
+      "description": "What is waste segregation?"
+    },
+    {
+      "intent": "ReduceWaste",
+      "examples": [
+        {
+          "text": "Tips to Reduce Waste"
+        }
+      ],
+      "description": "Tips to Reduce Waste - Waste Management"
+    },
+    {
+      "intent": "WasteSegregation_GetOthersIn",
+      "examples": [
+        {
+          "text": "Initiate waste management in my layout/ apartment complex"
+        },
+        {
+          "text": "What are the first few steps to initiating waste management in my layout/ apartment complex?"
+        },
+        {
+          "text": "I see my neighbor not segregating. What can I do?"
+        }
+      ],
+      "description": "Get started and got more involved"
+    },
+    {
+      "intent": "WasteSegregation_e-waste",
+      "examples": [
+        {
+          "text": "What is e-waste?"
+        },
+        {
+          "text": "How do I store E-Waste?"
+        },
+        {
+          "text": "E-waste"
+        }
+      ],
+      "description": "Info on e-waste"
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here's all the info on  Sanitary/Reject Waste\n\n1. This includes used menstrual cloths, sanitary napkins, disposable diapers, bandages and any material that is contaminated with blood or other body fluids.\n\n2. Sanitary pads and diapers should be wrapped in a newspaper, marked with a red cross, and given everyday in a red bin to the MC/Private Contractor.\n\n3. Expired medicines and injections, used syringes come under HHW or household hazardous wastes. They should be stored in a red bin and handed over daily. Condoms, soiled cotton, etc come under sanitary waste – they should be wrapped in a newspaper, marked with a red cross.\n\n4. Razor is HHW or household hazardous waste, like used syringes, etc.\n\n5. Used waxing strips are sanitary waste - they should be wrapped in a newspaper, marked with a red cross, and given everyday to the MC.\n\n6. HHW or household hazardous wastes include–toxic substances such as paints, cleaning agents, solvents, insecticides and their containers, other chemicals; and biomedical wastes like used syringes, expired medicines, thermometers, used cosmetics etc.\n\n7. Human hair/nails are sanitary waste. To dispose then wrap in a newspaper, mark with a red cross, and give everyday to the MC.\n\n8. Paints come under HHW or household hazardous wastes, To dispose half used paint cans, they should be stored and handed over separately.\n\n9. Bathroom cleaning brush/ old brooms/ floor cleaning cloths/ dry mops is sanitary/reject waste.\n\n10. If clothes are soiled with body fluids, they become sanitary/reject (HHW) waste.\n\n11. Cosmetics come under HHW or household hazardous wastes. They should be stored separate from other categories of waste and given to the MC along with sanitary waste.\n\n12. Pesticides, cleaning solutions, mosquito repellents also should be disposed in the same manner as cosmetics.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "How to dispose",
+            "options": [
+              {
+                "label": "Dry Waste",
+                "value": {
+                  "input": {
+                    "text": "Dry Waste"
+                  }
+                }
+              },
+              {
+                "label": "Wet Waste",
+                "value": {
+                  "input": {
+                    "text": "Wet Waste"
+                  }
+                }
+              },
+              {
+                "label": "E-waste",
+                "value": {
+                  "input": {
+                    "text": "E-waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Tips to Reduce Waste",
+                "value": {
+                  "input": {
+                    "text": "Tips to Reduce Waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_Sanitary-Reject",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1595742095534",
+      "previous_sibling": "node_2_1595740655776"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey"
+              },
+              {
+                "text": "Hello"
+              },
+              {
+                "text": "Hi"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "How can I help you move ahead? ",
+            "options": [
+              {
+                "label": "Tell me about waste segregation",
+                "value": {
+                  "input": {
+                    "text": "Tell me about waste segregation"
+                  }
+                }
+              },
+              {
+                "label": "How do I get started?",
+                "value": {
+                  "input": {
+                    "text": "How do I get started?"
+                  }
+                }
+              },
+              {
+                "label": "Initiate waste management in my layout/ apartment complex",
+                "value": {
+                  "input": {
+                    "text": "Initiate waste management in my layout/ apartment complex"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1595660666880",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here's all the info on Dry Waste\n\n1. It can include paper, plastics, metal, glass, rubber, thermocol, Styrofoam, fabric, leather, rexine, wood –anything that can be kept for an extended period without decomposing.\n\n2. It doesn't smell if you store it for a week if it is clean and dry. Make sure that plastic sachets of milk, curds, oil, any food item, are cleaned of all their contents and dried before being put in the dry waste bag. Then they will never stink.\n\n3. Clean dry waste will not attract any vermin. Only if any food residue or organic matter is present in the dry waste you will face cockroach, rats and flies problems.\n\t\n4. For storing pizza and cake boxes, clean the pizza or cake boxes of all food residue – with a wet kitchen cloth, or rinse them quickly in water and let them dry out before putting them in the dry waste container.\n\n5. To store pickle & sauce bottles, they should be rinsed thoroughly with water. Pickle bottles need to be cleaned with soap and water, as they contain oil. Basically, no food residue must be left in the bottles. Clean them as you would to reuse them.\n\n6. The milk packets, batter packets, and yoghurt containers need to ve cleaned thoroughly. Open out the milk, yoghurt and batter packets completely at one end, and wash out all the residue. They can be put to wash with the dishes in the sink, then dried,and put into the dry waste bag.\n\n7. Any plastic containing any food has to be rinsed, or washed with soap and water if required, before being put into the dry waste bag.\n\n8. Rinse juice containers/ tetra packs otherwise ants will be attracted to the sugar in the juice.\n\n9. Make sure all the bread / biscuit crumbs are shaken out of the packet, so they do not attract ants. If the biscuits are too oily, the packet may need to be washed with soap and water.\n\n10. For old clothes/ shoes/ handbags/ belts/ toys, if they are still in usable condition, they should be given to some organization that collects them. If they are totally unusable, or very damaged, they are still categorized as dry waste.\n\n11. Do the same with your old bed linen/ mattress/ pillows etc as mentioned above.\n\n12. Old furniture/ broken glass table can be recycled, if not, along with broken glass it can be handed over separately to Dry Waste Collection Centres.\n\n13. Old crockery / non-stick pans etc, if they are not broken, they are recyclable dry waste.\n\n14. Old taps – recyclable dry waste. Broken sanitary ware – debris or rubbish.\n\t\n15. The best method of storing Dry Waste is to store it in a bag/bin in the utility area after cleaning and drying till it is picked up.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "How to dispose",
+            "options": [
+              {
+                "label": "Wet Waste",
+                "value": {
+                  "input": {
+                    "text": "Wet Waste"
+                  }
+                }
+              },
+              {
+                "label": "Sanitary/ Reject Waste",
+                "value": {
+                  "input": {
+                    "text": "Sanitary/ Reject Waste"
+                  }
+                }
+              },
+              {
+                "label": "E-waste",
+                "value": {
+                  "input": {
+                    "text": "E-waste"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Tips to Reduce Waste",
+                "value": {
+                  "input": {
+                    "text": "Tips to Reduce Waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_DryWaste",
+      "dialog_node": "node_10_1595739691210",
+      "previous_sibling": "node_9_1595735569990"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If we don’t segregate, trash will increase to hazardous quantity, it will cause land pollution, and it will make the soil toxic. \nThere is also the need to decrease the amount of wastes to be thrown in landfills because of the increasing problem on the lack of available lands to dump trash.\n\nIf we don’t manage our wastes now, the earth will become more polluted and unsafe to live in. \nI hope we will stop polluting our land because it is always better to breathe cleaner air, see more sanitary surroundings, eat fresher foods, and drink safer water. \n\nLet’s make the Earth safe – manage and segregate our own wastes!\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "What happens if we segregate the waste?",
+                "value": {
+                  "input": {
+                    "text": "What happens if we segregate the waste?"
+                  }
+                }
+              },
+              {
+                "label": "How do I get started?",
+                "value": {
+                  "input": {
+                    "text": "How do I get started?"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_NotFollowed",
+      "dialog_node": "node_5_1595913510802",
+      "previous_sibling": "node_10_1595913371223"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If we go a level deeper - waste segregation is separating trash to non-recyclable, biodegradable, and recyclable groups. \n• Biodegradable wastes are those that can be broken down easily by bacteria like fruits and vegetables. \n• Recyclable materials are those that can be reused like paper and metal. \n• Non-biodegradable wastes needed to be dumped on a landfill like napkins, clothing, Styrofoam and wrappers.\n\nIf we segregate trash\n•  It will keep the soil rich in nutrients as farmers can make fertilizers from biodegradable wastes. \n• Recyclable materials can be sold to establishments that buy them. \n• It will also decrease the trash thrown in landfills. Most importantly, it will decrease land pollution. Areas around the land will be cleaner and free from putrid smell. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "What if we don't segregate the waste?",
+                "value": {
+                  "input": {
+                    "text": "What if we don't segregate the waste?"
+                  }
+                }
+              },
+              {
+                "label": "How do I get started?",
+                "value": {
+                  "input": {
+                    "text": "How do I get started?"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_Followed",
+      "dialog_node": "node_10_1595913371223",
+      "previous_sibling": "node_10_1595735153256"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here's all the info on Wet Waste\n\n1. Wet waste consists of kitchen waste - including vegetable and fruit peels and pieces, tea leaves, coffee grounds, eggshells, bones and entrails, fish scales, as well as cooked food (both veg and non-veg).\n\n2. Learn to compost at home. Home composting can be easily done in Daily Dump’s pot system, or in any aerated container.\n\n3. If you live in a large apartment building or you don’t have time to compost at home your alternatives could be a community composting system like tank composting or an OWC could be set up for all the wet waste from the residents. If not, the wet waste can be given out every day to the MC.\n\n4. Don’t use a plastic liner for the bin for disposing of the food waste in the bin. Before the advent of the bin liner, we would all put our garbage directly in the bin, and wash it everyday. That is what we will have to do now. The bin can be lined with a newspaper liner or a layer of sawdust if you don’t want to put the wet waste directly into it.\n\n5. To dispose dog poop, wrap in a newspaper, mark with a red cross, and give everyday to the MC along with wet waste. In case the dog or cat has loose motions, do the same with the cloth used to mop up the liquid poop.\n\n6. Garden waste will be collected by the MC on specified days or can be dropped off at the nearest specified park for composting.\n\n*MC = Municipal Corporation"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "How to dispose",
+            "options": [
+              {
+                "label": "Dry Waste",
+                "value": {
+                  "input": {
+                    "text": "Dry Waste"
+                  }
+                }
+              },
+              {
+                "label": "Sanitary/ Reject Waste",
+                "value": {
+                  "input": {
+                    "text": "Sanitary/ Reject Waste"
+                  }
+                }
+              },
+              {
+                "label": "E-waste",
+                "value": {
+                  "input": {
+                    "text": "E-waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "Tips to Reduce Waste",
+            "options": [],
+            "description": "Tips to Reduce Waste",
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_WetWaste",
+      "dialog_node": "node_2_1595740655776",
+      "previous_sibling": "node_4_1595660386853"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Know your waste\n\n1. Wet waste: It consists of kitchen waste - including vegetable and fruit peels and pieces, tea leaves, coffee grounds, eggshells, bones and entrails, fish scales, as well as cooked food (both veg and non-veg).\n\n2. Dry Waste: Paper, plastics, metal, glass, rubber, thermocol, styrofoam, fabric, leather, rexine, wood – anything that can be kept for an extended period without decomposing is classified as dry waste.\n\n3. Hazardous waste: Household hazardous waste or HHW include three sub-categories – E-waste; toxic substances such as paints, cleaning agents, solvents, insecticides and their containers, other chemicals; and biomedical waste.\n\n4. E-waste: E-waste or electronic waste consists of batteries, computer parts, wires, electrical equipment of any kind, electrical and electronic toys, remotes, watches, cell phones, bulbs, tube lights and CFLs.\n\n5. Biomedical waste: This includes used menstrual cloth, sanitary napkins, disposable diapers, bandages and any material that is contaminated with blood or other body fluids.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "What are my pre-requisites?",
+                "value": {
+                  "input": {
+                    "text": "What are my pre-requisites?"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "How to dispose",
+            "options": [
+              {
+                "label": "Dry Waste",
+                "value": {
+                  "input": {
+                    "text": "Dry Waste"
+                  }
+                }
+              },
+              {
+                "label": "Wet Waste",
+                "value": {
+                  "input": {
+                    "text": "Wet Waste"
+                  }
+                }
+              },
+              {
+                "label": "Sanitary/ Reject Waste",
+                "value": {
+                  "input": {
+                    "text": "Sanitary/ Reject Waste"
+                  }
+                }
+              },
+              {
+                "label": "E-waste",
+                "value": {
+                  "input": {
+                    "text": "E-waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_Types",
+      "dialog_node": "node_2_1595735045730",
+      "previous_sibling": "node_5_1595913510802"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Some small measures can reduce the amount of waste you bring into your house.\n\n1. Use cloth bags instead of plastic. bring your own reusable cloth bags instead of accepting plastic bags from the store.\n2. Buy food that has less packaging. Look for ways to buy food with minimal packaging.\n3. Do vermicomposting i.e. make your own worm composting system. \n4. Bottled water - and other bottled drinks - are a major source of waste in many places. Don't use bottled drinks unless you have to.\n5. Reduce your paper usage. \n6. If you have old clothing, electronics, or other items you don't want but are still in decent shape, donate them instead of throwing them out in the trash. \n7. Reuse containers. Durable containers can be reused a number of times before they need to go out with the garbage or recycling. \n8. Follow your city's recycling policies. \n9. Dispose of trash and hazardous waste properly.\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ReduceWaste",
+      "dialog_node": "node_8_1595913993506",
+      "previous_sibling": "node_1_1595743214526"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you know that our household waste contributes to about 70-80 percent of the total Municipal Solid Waste (MSW) generated in a city?\n\nWaste segregation at source is the dire need of the hour. Let's take the first step to save the environment and improve the quality of the atmosphere we live in. \n"
+              },
+              {
+                "text": "The best place to start making a difference is right in your own home. \n\nLearn how you can reduce, reuse, and recycle materials to decrease household waste by understanding the types first."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "How do I get started?",
+                "value": {
+                  "input": {
+                    "text": "How do I get started?"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_atHome",
+      "dialog_node": "node_9_1595748136210",
+      "previous_sibling": "node_2_1595660666880"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1. Keep separate containers for dry and wet waste in the kitchen\n2. Keep two bags for dry waste collection – paper and plastic, for the rest of the household waste\n3. Keep plastic from the kitchen clean and dry and drop into the dry waste bin.\n4. Send wet waste out of the home daily.\n5. Keep a paper bag for throwing sanitary napkins.\n\nColour coding to follow\n\t• Green bin - Compostable waste (Do not use plastic liner)\n\t• Blue bin/ Reusable Dry waste bag - Recyclable waste\n\t• Red bin - Reject/Sanitary waste (Do not use plastic liner)\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "How to dispose",
+            "options": [
+              {
+                "label": "Dry Waste",
+                "value": {
+                  "input": {
+                    "text": "Dry Waste"
+                  }
+                }
+              },
+              {
+                "label": "Wet Waste",
+                "value": {
+                  "input": {
+                    "text": "Wet Waste"
+                  }
+                }
+              },
+              {
+                "label": "Sanitary/ Reject Waste",
+                "value": {
+                  "input": {
+                    "text": "Sanitary/ Reject Waste"
+                  }
+                }
+              },
+              {
+                "label": "E-waste",
+                "value": {
+                  "input": {
+                    "text": "E-waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_HowTo",
+      "dialog_node": "node_9_1595735569990",
+      "previous_sibling": "node_2_1595735045730"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Waste segregation basically means keeping wet, dry and sanitary/reject waste separately, so that dry can be recycled, wet waste can be composted and sanitary waste can be incinerated."
+              },
+              {
+                "text": "It really does matter which bin you put the garbage into. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Why do I need to segregate waste at home?",
+                "value": {
+                  "input": {
+                    "text": "Why do I need to segregate waste at home?"
+                  }
+                }
+              },
+              {
+                "label": "What happens if we segregate the waste?",
+                "value": {
+                  "input": {
+                    "text": "What happens if we segregate the waste?"
+                  }
+                }
+              },
+              {
+                "label": "What if we don't segregate the waste?",
+                "value": {
+                  "input": {
+                    "text": "What if we don't segregate the waste?"
+                  }
+                }
+              },
+              {
+                "label": "How do I get started?",
+                "value": {
+                  "input": {
+                    "text": "How do I get started?"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1595735153256",
+      "previous_sibling": "node_9_1595748136210"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_10_1595743519848",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, let's spread a word ..\n\n• Form a group of like-minded people\n• Explain waste segregation to your family / neighbours in your apartment building/layout.\n• Get the maids (layouts) and staff in the apartment building to also understand.\n• Get in touch with your ward/block team to understand the process of collection.\n• Get separate storage drums for storing the dry, wet and reject/sanitary waste.\n• Have the dry waste picked up by the Dry waste collection centre or your local scrap dealer.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Tips to Reduce Waste",
+                "value": {
+                  "input": {
+                    "text": "Tips to Reduce Waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_GetOthersIn",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1595743214526",
+      "previous_sibling": "node_9_1595742095534"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "E-waste or electronic waste consists of batteries, computer parts, wires, electrical equipment of any kind, electrical and electronic toys, remotes, watches, cellphones, as well as bulbs, tubelights and CFLs. Hand over with Dry Waste.\n\nStore them in separate container which is kept closed, away from moisture and in which nothing else is put. Hand over with Dry Waste.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "How to dispose",
+            "options": [
+              {
+                "label": "Dry Waste",
+                "value": {
+                  "input": {
+                    "text": "Dry Waste"
+                  }
+                }
+              },
+              {
+                "label": "Wet Waste",
+                "value": {
+                  "input": {
+                    "text": "Wet Waste"
+                  }
+                }
+              },
+              {
+                "label": "Sanitary/ Reject Waste",
+                "value": {
+                  "input": {
+                    "text": "Sanitary/ Reject Waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Tips to Reduce Waste",
+                "value": {
+                  "input": {
+                    "text": "Tips to Reduce Waste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#WasteSegregation_e-waste",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1595660386853",
+      "previous_sibling": "node_10_1595739691210"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Segregate waste and become a neighborhood champion! See you later."
+              },
+              {
+                "text": "Remember you can make a difference! Bye"
+              },
+              {
+                "text": "Let's make waste segregation a habit and not an obligation!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_10_1595743519848",
+      "previous_sibling": "node_8_1595913993506"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to our Nip in the Bud initiative! Let's learn about segregating the waste at home and become a waste soldier."
+              },
+              {
+                "text": "I am your waste segregation manager virtual agent. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "How can I help you move ahead? ",
+            "options": [
+              {
+                "label": "Tell me about waste segregation",
+                "value": {
+                  "input": {
+                    "text": "Tell me about waste segregation"
+                  }
+                }
+              },
+              {
+                "label": "How do I get started?",
+                "value": {
+                  "input": {
+                    "text": "How do I get started?"
+                  }
+                }
+              },
+              {
+                "label": "Initiate waste management in my layout/ apartment complex",
+                "value": {
+                  "input": {
+                    "text": "Initiate waste management in my layout/ apartment complex"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "What's this waste segregation about?",
+  "language": "en",
+  "description": ""
+}
